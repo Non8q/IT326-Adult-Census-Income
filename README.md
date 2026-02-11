@@ -11,3 +11,4 @@ Understanding the factors that influence income distribution is a vital area of 
 * Norah Almifqaee
 * Nouf Almutairi 
 * Rand Alsaleem
+* Souha Ibrahim 
